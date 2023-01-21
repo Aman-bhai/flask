@@ -1,0 +1,21 @@
+
+
+
+{
+"params":
+{   
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost:3307/codinglife",
+    "product_uri":"mysql://root:@lprohost:3307/codinglife",
+    "fb_url":"https://facebook.com/codinglife",
+    "gh_url":"https://github.com/codinglife",
+    "blog_name":"Coding Life",
+       "about_text":"This is a lect that i am studying along code with harry .This is very awesome framework",
+     "no_of_post":2,
+     "login_img":"bootstrap-logo.svg",
+     "admin_user":"username",
+     "admin_password":"password",
+     "uploader_location":"E:\\FLASK\\static"
+}
+
+}
