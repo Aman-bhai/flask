@@ -80,7 +80,7 @@ def edit(sno):
                 
     post=Posts.query.filter_by(sno=sno).first()
 
-    return render_template('edit.htm',params=params,post=post)
+    return render_template('edit.htm',params=params,post=post,sno=sno)
 
 
 @app.route("/")
